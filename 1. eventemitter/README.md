@@ -1,0 +1,1 @@
+https://www.notion.so/Understanding-EventEmitter-in-Node-js-7b30eb71faeb4ed884827e90b20b88f4
